@@ -1,3 +1,7 @@
-# Shopping List
+# Grocery List
 
-Simple Shopping List App Using HTML, CSS, JavaScript and localStorage
+A simple Grocery list app using HTML, CSS, JavaScript(DOM, localStorage, events, state).
+
+<img src="images/screen.png" width="400">
+
+Demo: 
